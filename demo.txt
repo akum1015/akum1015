@@ -1,0 +1,11 @@
+this is some filler text written in demo dot txt file
+How to Use the Less Command | Linode
+https://www.linode.com › docs › quick-answers › linux › how-to-use-less
+Sep 7, 2018 - Use the less command to display file and command output one page at a time.On Linux systems, less is a command that displays file contents or command output one ... down arrow key , enter , e , or j, Move down one line.
+less command in Linux with Examples - GeeksforGeeks
+https://www.geeksforgeeks.org › less-command-linux-examples
+Note : I'm using dmesg output as input to less command in following examples. causes less to exit if entire file can be displayed on first screen -g : highlight ...
+Unix Less Command: 10 Tips for Effective Navigation
+https://www.thegeekstuff.com › 2010/02 › unix-less-command-10-tips-for...
+Feb 1, 2010 - I personally prefer to use less command to view files (instead of ... G – go to the end of file; g – go to the start of file; q or ZZ – exit the less pager ...
+Q&A on Google
